@@ -16,9 +16,9 @@ command-line as *BUILDERS*.
 
 ```
 **************************************************************************************************
-*           *             *            *             *            *             *                * 
-* Blue Room   Purple Room   Green Room   Orange Room   White Room   Violet Room   Black/Red Room *     
-*           *             *            *             *            *             *                *
+|           |             |            |             |            |             |                | 
+| Blue Room   Purple Room   Green Room   Orange Room   White Room   Violet Room   Black/Red Room |     
+|           |             |            |             |            |             |                |
 **************************************************************************************************
 ```
 
