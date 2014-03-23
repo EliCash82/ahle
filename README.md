@@ -28,3 +28,14 @@ command-line as *BUILDERS*.
 | --------------- | ----------- | ----------- | ----------- |
 | Prince Prospero | Protagonist | All         | All         |
 | Waltzers        | nil         | Room 1      | 1 line each |
+
+### Requirements:
+
+#####GEMS:
+
+* Colorize
+
+#####GENERAL:
+
+* When running engine, terminal background should be dark/black for optimal experience.
+
