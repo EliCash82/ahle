@@ -12,7 +12,7 @@ with texts as *PLAYERS* or approach the Ruby language and the computer
 command-line as *BUILDERS*.
 
 ### NARRATIVE 1: The Masque of the Red Death
-#### MAP
+##### MAP
 
 ```
 **************************************************************************************************
@@ -22,7 +22,7 @@ command-line as *BUILDERS*.
 **************************************************************************************************
 ```
 
-#### KEY
+##### KEY
 
 | Character       | Status      | Room(s)     | Interaction |
 | --------------- | ----------- | ----------- | ----------- |
