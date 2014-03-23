@@ -8,23 +8,23 @@ exploration/ludic based summaries of literature written in Ruby.
 By creating a map, and placing characters from a specific narratives
 (or topic-objects from any form of codex) in different places within 
 the map, readers can enhance comprehesion and build deeper engagement
-with texts as "PLAYERS" or approach the Ruby language and the computer
-command-line as "BUILDERS."
+with texts as *PLAYERS* or approach the Ruby language and the computer
+command-line as *BUILDERS*.
 
 ### MAP
 
 ```
 ******************
 *                *
-*                * 
-*    ROOM 1      *
-*                *  
-*                *
-********  ********
-       *  *
-       *  *
+*                **********  
+*   Blue Room             *   ***********************************
+*                ******   *   *
+*                *    *   *****
+******************    *          Purple Room
+                      *********
+                              *
+                              ****************
 ```
-
 ### KEY
 
 NARRATIVE 1: The Masque of the Red Death
@@ -32,3 +32,4 @@ NARRATIVE 1: The Masque of the Red Death
 | Character       | Status      | Room(s)     | Interaction |
 | --------------- | ----------- | ----------- | ----------- |
 | Prince Prospero | Protagonist | All         | All         |
+| Waltzers        | nil         | Room 1      | 1 line each |
