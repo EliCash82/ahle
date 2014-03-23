@@ -11,23 +11,18 @@ the map, readers can enhance comprehesion and build deeper engagement
 with texts as *PLAYERS* or approach the Ruby language and the computer
 command-line as *BUILDERS*.
 
-### MAP
+### NARRATIVE 1: The Masque of the Red Death
+#### MAP
 
 ```
-******************
-*                *
-*                **********  
-*   Blue Room             *   ***********************************
-*                ******   *   *
-*                *    *   *****
-******************    *          Purple Room
-                      *********
-                              *
-                              ****************
+**************************************************************************************************
+*           *             *            *             *            *             *                * 
+* Blue Room   Purple Room   Green Room   Orange Room   White Room   Violet Room   Black/Red Room *     
+*           *             *            *             *            *             *                *
+**************************************************************************************************
 ```
-### KEY
 
-NARRATIVE 1: The Masque of the Red Death
+#### KEY
 
 | Character       | Status      | Room(s)     | Interaction |
 | --------------- | ----------- | ----------- | ----------- |
