@@ -157,10 +157,8 @@ class Game
 		puts ""
 		puts "THE PURPLE ROOM".white 
 		puts "You are now in the purple room.".light_magenta
-		puts "lorem ipsum lorem ipsum".light_magenta
-		puts "lorem ipsum lorem ipsum".light_magenta
-		puts "lorem ipsum lorem ipsum".light_magenta
-		puts "lorem ipsum lorem ipsum".light_magenta
+		puts "There are several people in here, but the ballerinas in particular catch your eye.".light_magenta
+		puts "You can talk to BALLERINA 1 or BALLERINA 2.  You can move WEST or EAST.  ".light_magenta
 		return :death
  end
 end
