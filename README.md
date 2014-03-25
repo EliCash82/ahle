@@ -24,10 +24,36 @@ command-line as *BUILDERS*.
 
 ##### KEY
 
-| Character       | Status      | Room(s)     | Interaction |
-| --------------- | ----------- | ----------- | ----------- |
-| Prince Prospero | Protagonist | All         | All         |
-| Waltzers        | nil         | Room 1      | 1 line each |
+| Character       | Status      | Room(s)     | Interaction  |
+| --------------- | ----------- | ----------- | ------------ |
+| Prince Prospero | Protagonist | All         | All          |
+| Red Death       | Antagonist  | All         | nil          |
+| Waltzers        | nil         | Blue Room   | 3 lines each |
+| Ballerinas      | nil         | Purple Room | 3 lines each |
+| Improvisers     | nil         | Green Room  | 3 lines each | 
+| Buffons         | nil         | Orange Room | 3 lines each |
+| Musicians       | nil         | Violet Room | 3 lines each |
+
+| Items      | Room(s)                      | 
+| ---------- | ---------------------------- |
+| Dagger     | White Room (After Red/Black) |
+
+##### Plot
+[See weird_notes.txt](https://github.com/EliCash82/ahle/blob/master/weird_notes.txt))
+
+#####Ludic Rules
+
+* If Prospero moves to the WEST the ebony clock chimes making things more and more eerie.
+
+* If Prospero moves back east things calm back down
+
+* If Prospero moves all the way to the black/red room, as he moves left
+	* the clock begins clanging more times
+	* guests that Prospero talk to seem much more disturbed
+
+* When Prospero gets back to the blue room he notices another figure and rages
+
+* He then must go through all the rooms until falling on his dagger in the red/black room upon his second arrival in the room.
 
 ### Requirements:
 
