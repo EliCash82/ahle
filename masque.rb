@@ -159,8 +159,25 @@ class Game
 		puts "You are now in the purple room.".light_magenta
 		puts "There are several people in here, but the ballerinas in particular catch your eye.".light_magenta
 		puts "You can talk to BALLERINA 1 or BALLERINA 2.  You can move WEST or EAST.  ".light_magenta
-		return :death
- end
+		
+                prompt()
+                action = gets.chomp
+
+                if action == "go west" or action == "west" or action == "GO WEST" or action == "Go west"
+                  puts "You head to the orange room.".orange
+                  return :death  #return :orange_room
+
+                elsif action == "BALLERINA 1"
+                  puts "Oh sweet Prince, do you not love my dancing?  I do it because this outrageous dress you have crafted for me is as elegant as it is bizarre".light_magenta
+                  puts "CLANG CLANG".white
+                  puts "What a horrible sound prince!  What a horrible awful sound!  Oh but a fun sound too, I suppose.".light_magenta
+                  return :death  #return :purple_mini_room
+
+                else
+                  return :death
+
+                end
+        end
 end
 
 a_game = Game.new(:intro)
